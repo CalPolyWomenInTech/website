@@ -40,7 +40,7 @@ We appreciate your help! 💜
 
 📬 Contact Us
 Have questions or suggestions? Feel free to reach out! 📩
-- 🌐 Website: https://women-in-tech-web-dev.github.io/Web-Dev/
+- 🌐 Website: (https://calpolywit.org/)
 
 🚀 Let’s build a strong Women in Tech community together! 💜✨
 
