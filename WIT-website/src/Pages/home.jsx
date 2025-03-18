@@ -44,9 +44,6 @@ function Home() {
         <a href="https://discord.com/invite/R5nrdnDFTq" target="_blank" rel="noopener noreferrer" className="social-link">
           <img src={discordLogo} alt="Discord" className="social-logo" />
         </a>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFZKpcMzfrsDnQopEoeKCzhD2rrWzPALADaOaxjcTWUdUcRg/viewform" target="_blank" rel="noopener noreferrer" className="social-link">
-          <img src={MembershipLogo} alt="Membership Form" className="social-logo" />
-        </a>
       </div>
 
       {/* Image Carousel */}
